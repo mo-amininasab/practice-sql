@@ -17,7 +17,7 @@ CREATE TABLE addresses (
   house_number VARCHAR(50) NOT NULL,
   city_id INT NOT NULL
 );
-CREATE TABLE city (
+CREATE TABLE cities (
   -- MySQL
   -- id INT PRIMARY KEY AUTO_INCREMENT,
   -- PostgreSQL
